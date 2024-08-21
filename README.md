@@ -3,7 +3,6 @@
 # Mark Biegel, Tim Yingling, Clement Onoja, Biruk Yimer, Jenna Pasternak, Scott Boyd
 # Professor Allgood
 # Monday/Wednesday 5:30-6:45 Section
-# Contact: mbiegel1@umbc.edu
 ###
 
 #### Version 1.1.0
