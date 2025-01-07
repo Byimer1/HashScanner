@@ -1,6 +1,6 @@
 # Threat Detector ® Virus Scanner
-# CMSC 447 Team H Submission
-# Biruk Yimer, Mark Biegel, Tim Yingling, Clement Onoja, Jenna Pasternak, Scott Boyd
+# CMSC 447
+# Biruk Yimer
 # Professor Allgood
 # Monday/Wednesday 5:30-6:45 Section
 ###
